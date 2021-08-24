@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LivTask</string>
+    <string name="title">Hello World!</string>
+    <string name="name">Welcome</string>
+</resources>
