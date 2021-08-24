@@ -69,3 +69,7 @@ This way you can add new languages and add new tranlations as you change the opt
 
 
 **Note: This solution is present in one of the OTT Apps since 2 years and is successfully working. This was designed by for the requirement.**
+
+## Change Log
+
+1.0: https://github.com/gilbertvijaydhas/LivTask/releases/tag/1.0
