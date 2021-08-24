@@ -1,6 +1,9 @@
 # Assignment
 ## Approach
 
+Language: Java
+Architecture: MVVM
+
 Detailing the approach for the solution for enabled mutiple language support in the app
 
 The translations are hosted in the server in the form of json 
