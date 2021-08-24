@@ -1,7 +1,7 @@
 # Assignment
 ## Approach
 
-Language: Java
+Language: Java <br>
 Architecture: MVVM
 
 Detailing the approach for the solution for enabled mutiple language support in the app
